@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Javmos:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Javmos_jar</output-path>
+    <root id="archive" name="Javmos.jar">
+      <element id="module-output" name="Javmos" />
+    </root>
+  </artifact>
+</component>
